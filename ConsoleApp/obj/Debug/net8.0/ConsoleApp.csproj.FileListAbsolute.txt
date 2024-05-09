@@ -1,0 +1,14 @@
+D:\semester 6\M109\TMA_Solution\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+D:\semester 6\M109\TMA_Solution\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+D:\semester 6\M109\TMA_Solution\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+D:\semester 6\M109\TMA_Solution\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+D:\semester 6\M109\TMA_Solution\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+D:\semester 6\M109\TMA_Solution\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester 6\M109\TMA_Solution\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\semester 6\M109\TMA_Solution\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+D:\semester 6\M109\TMA_Solution\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\semester 6\M109\TMA_Solution\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+D:\semester 6\M109\TMA_Solution\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+D:\semester 6\M109\TMA_Solution\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+D:\semester 6\M109\TMA_Solution\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+D:\semester 6\M109\TMA_Solution\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
