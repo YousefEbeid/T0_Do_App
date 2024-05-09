@@ -3,7 +3,7 @@
 ## Description
 This console-based task manager application allows users to manage a list of tasks. Upon starting the application, a welcome message is displayed, followed by a menu system where users can perform various operations on tasks.
 
-## Requirements
+## Advantages
 
 1. **Welcome Message**: Display a welcome message when the application starts.
 
